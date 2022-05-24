@@ -1,2 +1,0 @@
-(this["webpackJsonpbrown-edu-orchestra"]=this["webpackJsonpbrown-edu-orchestra"]||[]).push([[16],{88:function(e){e.exports=JSON.parse('{"year":"2021","videos":[{"date":"2021-05-13T00:00:00.000Z","link":"https://www.youtube.com/embed/jzJkxFuC0Kg","location":"Sayles Hall","title":"Brown University Orchestra Spring Performance"}]}')}}]);
-//# sourceMappingURL=16.58e95686.chunk.js.map
