@@ -1,0 +1,2 @@
+(this["webpackJsonpbrown-edu-orchestra"]=this["webpackJsonpbrown-edu-orchestra"]||[]).push([[19],{95:function(e){e.exports=JSON.parse('{"year":"2019","videos":[{"title":"*Scheherazade*, Op. 35; movement IV by Nikolai Rimsky-Korsakov","link":"https://www.youtube.com/embed/SKiIsfWTv14","location":"Sayles Hall","date":"2019-11-22"},{"title":"*Danz\xf3n No. 2* by Arturo M\xe1rquez","link":"https://www.youtube.com/embed/eTnQgMxMloE","location":"Sayles Hall","date":"2019-10-20"}]}')}}]);
+//# sourceMappingURL=19.2883ced3.chunk.js.map

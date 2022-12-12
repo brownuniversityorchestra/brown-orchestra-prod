@@ -1,2 +1,0 @@
-(this["webpackJsonpbrown-edu-orchestra"]=this["webpackJsonpbrown-edu-orchestra"]||[]).push([[19],{95:function(e){e.exports=JSON.parse('{"year":"2020","videos":[{"date":"2020-03-13T00:00:00.000Z","title":"Variations: Musical Journeys at Brown University","link":"https://www.youtube.com/embed/GhP73ZQq8d8","location":"Brown University Music Department"},{"title":"Leonore Overture No.3 Op.72 by Ludwig Van Beethoven","link":"https://www.youtube.com/embed/KM4JBMtJB6Q","location":"Sayles Hall","date":"2020-03-01T00:00:00.000Z"}]}')}}]);
-//# sourceMappingURL=19.58398825.chunk.js.map
