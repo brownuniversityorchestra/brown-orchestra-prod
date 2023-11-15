@@ -1,2 +1,0 @@
-(this["webpackJsonpbrown-edu-orchestra"]=this["webpackJsonpbrown-edu-orchestra"]||[]).push([[53],{81:function(e){e.exports=JSON.parse('{"year":"2022","concerts":[{"title":"October Concerts","subtitle":["Mark Seto, Conductor"],"locations":["Sayles Hall"],"dates":["10/15/2022, 8:00:00 PMd","10/16/2022, 3:00:00 PMd"],"pieces":[{"title":"*Sinfonia (for Orbiting Spheres)*","composer":"Missy Mazzoli"},{"title":"*Symphony No. 5*","composer":"Gustav Mahler"}]}]}')}}]);
-//# sourceMappingURL=53.dba4479d.chunk.js.map
