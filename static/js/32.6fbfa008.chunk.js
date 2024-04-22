@@ -1,0 +1,2 @@
+(this["webpackJsonpbrown-edu-orchestra"]=this["webpackJsonpbrown-edu-orchestra"]||[]).push([[32],{109:function(e){e.exports=JSON.parse('{"year":"2023","videos":[{"date":"2023-10-21T00:00:00.000Z","link":"https://www.youtube.com/watch?v=-BP_Jw1xNh0","title":"Open Again a Turn of Light by Eric Nathan","location":"Lindemann Performing Arts Center"}]}')}}]);
+//# sourceMappingURL=32.6fbfa008.chunk.js.map
