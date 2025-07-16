@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Departments/Music/sites/orchestra/static/css/main.46eff29a.chunk.css",
-    "main.js": "/Departments/Music/sites/orchestra/static/js/main.70a220e1.chunk.js",
-    "main.js.map": "/Departments/Music/sites/orchestra/static/js/main.70a220e1.chunk.js.map",
+    "main.js": "/Departments/Music/sites/orchestra/static/js/main.1cfc6c84.chunk.js",
+    "main.js.map": "/Departments/Music/sites/orchestra/static/js/main.1cfc6c84.chunk.js.map",
     "runtime-main.js": "/Departments/Music/sites/orchestra/static/js/runtime-main.75b023ea.js",
     "runtime-main.js.map": "/Departments/Music/sites/orchestra/static/js/runtime-main.75b023ea.js.map",
     "static/css/2.28c6b8f8.chunk.css": "/Departments/Music/sites/orchestra/static/css/2.28c6b8f8.chunk.css",
@@ -146,6 +146,6 @@
     "static/css/2.28c6b8f8.chunk.css",
     "static/js/2.0e7d9fe8.chunk.js",
     "static/css/main.46eff29a.chunk.css",
-    "static/js/main.70a220e1.chunk.js"
+    "static/js/main.1cfc6c84.chunk.js"
   ]
 }
